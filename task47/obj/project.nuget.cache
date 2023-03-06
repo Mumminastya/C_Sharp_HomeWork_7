@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hNmcfoTyAZPBAV4i1RXzQYCoNA+FwT21UoBmsKMlEhXcx8Yy1Q/EdC/OEhbiZOwHp6EmoNFwft348A0TJPYDSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxbe\\Desktop\\GeekBr\\C#_education\\C#_HomeWork_7\\task47\\task47.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
